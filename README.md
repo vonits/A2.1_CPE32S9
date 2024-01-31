@@ -1,11 +1,25 @@
-<h1 align="center">Hi 👋, I'm Von Raphael S. Pioquinto</h1>
-<h3 align="center">A student from TIP-QC 3rd Yr BSCPE.</h3>
+### Hi there 👋, my name is Von 
+#### A student from TIP-QC 3rd Yr BSCPE
+![A student from TIP-QC 3rd Yr BSCPE] (https://imgflip.com/memetemplate/249030011/Fire-Elmo)
 
-- 🔭 I’m currently working on **Myself, Studies and Goals**
+I like watching sports and e-sports. I love to play video games. Also, I go to the gym often. I'm a jolly person I would love to laugh daily since it spreads positive vibes around me. I would like to learn more about Python programming since it is easier to implement than other programming languages. 
 
-- 🌱 I’m currently learning **Python Programming**
+Skills: C++, MySQL, Python
 
-</p>
+- 🔭 I’m currently working on Myself, Studies and Goals 
+- 🌱 I’m currently learning Python 
+- ⚡ Fun fact: I can crack my neck 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
